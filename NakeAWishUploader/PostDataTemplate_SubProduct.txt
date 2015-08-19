@@ -1,0 +1,1 @@
+﻿name=[SUBPRODUCT_NAME]&unit=&weight=0&code=[SUBPRODUCT_ID]&barcode=&show_sw=true&show_sw_lnwshop=true&lnwmarket_flag=false&lnwmarket_day=5&images=&price=[SUBPRODUCT_PRICE]&discount_active=false&sale_sw=true&instock_sw=true&preorder_flag=2&second_hand_flag=2&second_hand_option=1&ajaxxxx=true
